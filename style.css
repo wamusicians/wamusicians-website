@@ -14,7 +14,7 @@ body {
   background: #1d3557;
   color: white;
   text-align: center;
-  padding: 70px 20px;
+  padding: 50px 20px;
 }
 
 .hero h1 {
@@ -44,7 +44,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #e76f51;
+  color: #db1b0d;
 }
 
 main {
