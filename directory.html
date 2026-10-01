@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Directory - Wellsville Area Musicians Collective</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="hero small">
+    <h1>Musician Directory</h1>
+    <p class="tagline">Find local musicians and bands.</p>
+  </header>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="directory.html">Directory</a>
+  </nav>
+
+  <main>
+    <section class="filters">
+      <label>Show
+        <select id="type-filter">
+          <option value="">Bands and individuals</option>
+          <option value="band">Bands only</option>
+          <option value="person">Individuals only</option>
+        </select>
+      </label>
+
+      <label>Genre
+        <select id="genre-filter">
+          <option value="">Any genre</option>
+        </select>
+      </label>
+
+      <label>Band size
+        <select id="size-filter">
+          <option value="">Any size</option>
+          <option value="2">Duo (2)</option>
+          <option value="3">Trio (3)</option>
+          <option value="4">4 members</option>
+          <option value="5plus">5 or more</option>
+        </select>
+      </label>
+
+      <label>Location
+        <select id="location-filter">
+          <option value="">Anywhere</option>
+        </select>
+      </label>
+
+      <button id="clear-button">Clear filters</button>
+    </section>
+
+    <p id="result-count"></p>
+    <div id="results"></div>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Wellsville Area Musicians Collective</p>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="directory.js"></script>
+</body>
+</html>
