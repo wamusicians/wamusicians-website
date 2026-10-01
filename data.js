@@ -5,7 +5,7 @@ const musicians = [
     name: "The Peralta Family",
     genres: ["Classical"],
     location: "Wellsville, NY",
-    size: [3, 4],
+    size: [2, 3, 4],
     description: "The Peralta Family is a family of strings players from Venezuela. They specialize in classical music, perfect for weddings and other upscale events.",
     contact: "email"
   },
@@ -20,4 +20,25 @@ const musicians = [
     description: "Buckwheat is a multi-instrumentalist and singer-songwriter from Wellsville, NY. He has been performing for over 10 years and has a passion for country and folk music.",
     contact: "email or social media"
   },
+  {
+    id: "Gabriel-Malcolm",
+    type: "person",
+    name: "Gabriel Malcolm",
+    genres: ["Country", "Folk", "Oldies", "Indie", "Pop"],
+    location: "Wellsville, NY",
+    instruments: ["Guitar", "Bass", "Vocals", "Piano", "Violin"],
+    bands: ["The-Wheating-Crew"],
+    description: "Gabriel Malcolm is a multi-instrumentalist and singer-songwriter from Wellsville, NY. They have been performing for 3 years and writing for 10. They have a passion for 'sad-girl-indie' and oldies music.",
+    contact: "gabrielm.geta@gmail.com"
+  },
+  {
+    id: "The-Wheating-Crew",
+    type: "band",
+    name: "The Wheating Crew",
+    genres: ["Country", "Folk", "Oldies"],
+    location: "Wellsville, NY",
+    size: [3, 4],
+    description: "The Wheating Crew is a dynamic band from Wellsville, NY. They specialize in country and folk music, bringing energy and authenticity to every performance.",
+    contact: "email or social media"
+  }
 ];
