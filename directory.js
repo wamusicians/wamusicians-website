@@ -26,17 +26,21 @@ fillDropdown(locationFilter, uniqueSorted(musicians.map(function (m) { return m.
 function findById(id) {
   return musicians.find(function (m) { return m.id === id; });
 }
+function sizesOf(m) {
+  return Array.isArray(m.size) ? m.size : [m.size];
+}
 
 function matches(m) {
   if (typeFilter.value && m.type !== typeFilter.value) return false;
   if (genreFilter.value && !m.genres.includes(genreFilter.value)) return false;
   if (locationFilter.value && m.location !== locationFilter.value) return false;
 
-  if (sizeFilter.value) {
+    if (sizeFilter.value) {
     if (m.type !== "band") return false;
+    const sizes = sizesOf(m);
     if (sizeFilter.value === "5plus") {
-      if (m.size < 5) return false;
-    } else if (m.size !== Number(sizeFilter.value)) {
+      if (!sizes.some(function (s) { return s >= 5; })) return false;
+    } else if (!sizes.includes(Number(sizeFilter.value))) {
       return false;
     }
   }
@@ -51,7 +55,7 @@ function cardHTML(m) {
   html += "<p><strong>Location:</strong> " + m.location + "</p>";
 
   if (m.type === "band") {
-    html += "<p><strong>Size:</strong> " + m.size + " members</p>";
+        html += "<p><strong>Size:</strong> " + sizesOf(m).join(" or ") + " members</p>";
     const members = musicians.filter(function (p) {
       return p.type === "person" && p.bands && p.bands.includes(m.id);
     });
