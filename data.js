@@ -70,5 +70,15 @@ const musicians = [
     instruments: ["Violin"],
     description: "'English & a fiddle' is a well seasoned violinist who has a deep love for playing for any crowd and any event. He boasts the ability to play anything 'country to classic'",
     contact: "email richenglish843@gmail.com or text 843-725-8607"
+  },
+  {
+    id: "Micah-Gena",
+    type: "person",
+    name: "Micah Gena",
+    genres: ["Folk", "Alternative", "Indie"],
+    location: "Wellsville, NY",
+    instruments: ["Guitar", "Vocals"],
+    description: "Micah is relatively new to the music scene, but loves to play for small crowds. He has five years of playing experience and three years of performing experience.",
+    contact: "email or social media"
   }
 ];
