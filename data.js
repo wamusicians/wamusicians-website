@@ -60,5 +60,15 @@ const musicians = [
     instruments: ["Guitar", "Vocals"],
     description: "Dave always enjoys creating a personal version of well-written songs and is always looking for new songs to relate to and personalize.",
     contact: "text or call 607-731-8280"
+  },
+  {
+    id: "Rich-English",
+    type: "person",
+    name: "Rich English",
+    genres: ["Folk", "Country", "Classical", "Improvisational"],
+    location: "Wellsville, NY",
+    instruments: ["Violin"],
+    description: "'English & a fiddle' is a well seasoned violinist who has a deep love for playing for any crowd and any event. He boasts the ability to play anything 'country to classic'",
+    contact: "email richenglish843@gmail.com or text 843-725-8607"
   }
 ];
