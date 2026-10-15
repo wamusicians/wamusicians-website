@@ -50,5 +50,15 @@ const musicians = [
     size: [2],
     description: "Don and Deb enjoy creating harmonies around songs about peace and encouragement.",
     contact: "email donb1449@gmail.com or text 828-553-7543"
+  },
+  {
+    id: "Dave-Balliett",
+    type: "person",
+    name: "Dave Balliett",
+    genres: ["Folk", "Roots", "Heart"],
+    location: "Wellsville, NY",
+    instruments: ["Guitar", "Vocals"],
+    description: "Dave always enjoys creating a personal version of well-written songs and is always looking for new songs to relate to and personalize.",
+    contact: "text or call 607-731-8280"
   }
 ];
