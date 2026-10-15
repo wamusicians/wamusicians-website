@@ -40,5 +40,15 @@ const musicians = [
     size: [3, 4],
     description: "The Wheating Crew is a dynamic band from Wellsville, NY. They specialize in country and folk music, bringing energy and authenticity to every performance.",
     contact: "email or social media"
+  },
+  {
+    id: "Don-and-Deb",
+    type: "band",
+    name: "Don and Deb",
+    genres: ["Folk"],
+    location: "Belmont, NY",
+    size: 2,
+    description: "Don and Deb enjoy creating harmonies around songs about peace and encouragement."
+    contact: "email donb1449@gmail.com or text 828-553-7543"
   }
 ];
