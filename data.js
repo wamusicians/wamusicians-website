@@ -48,7 +48,7 @@ const musicians = [
     genres: ["Folk"],
     location: "Belmont, NY",
     size: [2],
-    description: "Don and Deb enjoy creating harmonies around songs about peace and encouragement."
+    description: "Don and Deb enjoy creating harmonies around songs about peace and encouragement.",
     contact: "email donb1449@gmail.com or text 828-553-7543"
   }
 ];
