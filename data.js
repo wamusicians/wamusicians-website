@@ -120,7 +120,7 @@ const musicians = [
     location: "Scio, NY",
     instruments: ["Guitar", "Bass"],
     bands: ["The-Wheating-Crew", "Sponduli"],
-    description: "Cole is currently studying at Houghton University for English Education and has a passion for all things music. He's been playing bass with local musicians for the past 5 years.",
+    description: "Bassist for hire! Cole has been helping local artists bring their visions to life for the past ~5 years. He is currently studying English Education at Houghton University.",
     contact: "email cdavenport2020@outlook.com"
   },
   {
