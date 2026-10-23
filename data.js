@@ -54,12 +54,12 @@ const musicians = [
   {
     id: "Dave-Balliett",
     type: "person",
-    name: "Dave Balliett",
-    genres: ["Folk", "Roots", "Heart"],
+    name: "Dave Balliett aka: 'Hilltop Hermit'",
+    genres: ["Folk", "Roots", "Americana"],
     location: "Wellsville, NY",
     instruments: ["Guitar", "Vocals"],
     description: "Dave always enjoys creating a personal version of well-written songs and is always looking for new songs to relate to and personalize.",
-    contact: "text or call 607-731-8280"
+    contact: "email corningmakemusic25@gmail.com"
   },
   {
     id: "Rich-English",
