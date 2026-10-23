@@ -29,7 +29,7 @@ const musicians = [
     instruments: ["Guitar", "Bass", "Vocals", "Piano", "Violin"],
     bands: ["The-Wheating-Crew"],
     description: "Gabriel Malcolm is a multi-instrumentalist and singer-songwriter from Wellsville, NY. They have been performing for 3 years and writing for 10. They have a passion for 'sad-girl-indie' and oldies music.",
-    contact: "email gabrielm.geta@gmail.com or find me on social media @gayb.m"
+    contact: "email gabrielm.geta@gmail.com or find them on social media @gayb.m"
   },
   {
     id: "The-Wheating-Crew",
