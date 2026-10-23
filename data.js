@@ -89,7 +89,7 @@ const musicians = [
     genres: ["Rock", "Prog", "Prog-Rock", "Prog-Punk"],
     location: "Alfred, NY",
     size: [4],
-    description: "Sponduli is a progressive rock band located in Alfred, NY. They are working on their first studio album. You can be among the first to critique our music by catching us at various Alfred events",
+    description: "Sponduli is a progressive rock band located in Alfred, NY. They are working on their first studio album. You can be among the first to critique our music by catching us at various Alfred events.",
     contact: "DM them on Instagram @more.sponduli"
   },
   {
