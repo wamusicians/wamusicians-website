@@ -108,8 +108,19 @@ const musicians = [
     name: "BigmanJojo",
     genres: ["Hip-Hop", "R&B", "Soul", "Country"],
     location: "Scio, NY",
-    instruments: ["Vocals", "Guitar", "Ukelele", "Bass", "Bongos", "Vocals", "Production"],
+    instruments: ["Guitar", "Ukelele", "Bass", "Bongos", "Vocals", "Production"],
     description: "Science and engineering degree for the recording arts, singer, musician, voice actor, sound and audio designer and engineer.",
     contact: "email bigmanjojoentertainment@gmail.com"
+  },
+  {
+    id: "Cole-Davenport",
+    type: "person",
+    name: "Cole Davenport",
+    genres: ["Jazz", "Pop", "Rock", "R&B", "Soul", "Folk"],
+    location: "Scio, NY",
+    instruments: ["Guitar", "Bass"],
+    bands: ["The-Wheating-Crew", "Sponduli"],
+    description: "Cole is currently studying at Houghton University for English Education and has a passion for all things music.",
+    contact: "text 585-648-6240"
   }
 ];
