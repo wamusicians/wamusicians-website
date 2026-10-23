@@ -103,13 +103,13 @@ const musicians = [
     contact: " search 'cori lunn' on spotify or 'sorrelclover' on soundcloud"
   },
   {
-    id: "BigmanJojo"
+    id: "BigmanJojo",
     type: "person",
     name: "BigmanJojo",
     genres: ["Hip-Hop", "R&B", "Soul", "Country"],
     location: "Scio, NY",
     instruments: ["Vocals", "Guitar", "Ukelele", "Bass", "Bongos", "Vocals", "Production"],
-    description: "Science and engineering degree for the recording arts, singer, musician, voice actor, sound and audio designer and engineer."
+    description: "Science and engineering degree for the recording arts, singer, musician, voice actor, sound and audio designer and engineer.",
     contact: "email bigmanjojoentertainment@gmail.com"
   }
 ];
