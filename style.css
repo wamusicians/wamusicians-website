@@ -48,10 +48,9 @@ nav a:hover {
 }
 
 main {
-  width: 90%;
-  max-width: 900px;
+  max-width: 800px;
   margin: 0 auto;
-  padding: 20px 0;
+  padding: 20px;
 }
 
 section {
