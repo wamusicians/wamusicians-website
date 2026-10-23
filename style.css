@@ -151,4 +151,30 @@ footer {
 .musician a {
   color: #1d3557;
   font-weight: bold;
+}.spotlight {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.spotlight img {
+  width: 100%;
+  max-width: 280px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.spotlight-text {
+  flex: 1;
+  min-width: 220px;
+}
+
+.spotlight-text h3 {
+  margin-top: 0;
+  color: #1d3557;
 }
