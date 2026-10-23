@@ -7,7 +7,7 @@ const musicians = [
     location: "Wellsville, NY",
     size: [2, 3, 4],
     description: "The Peralta Family is a family of strings players from Venezuela. They specialize in classical music, perfect for weddings and other upscale events.",
-    contact: "email"
+    contact: "contact information not yet provided"
   },
   {
     id: "Buckwheat",
@@ -18,7 +18,7 @@ const musicians = [
     instruments: ["Guitar", "Bass", "Vocals", "Mandolin", "Melodica", "Harmonica"],
     bands: ["The-Wheating-Crew"],
     description: "Buckwheat is a multi-instrumentalist and singer-songwriter from Wellsville, NY. He has been performing for over 10 years and has a passion for country and folk music.",
-    contact: "email or social media"
+    contact: "email eric.scutt@gmail.com or text 814-655-6802"
   },
   {
     id: "Gabriel-Malcolm",
@@ -39,7 +39,7 @@ const musicians = [
     location: "Wellsville, NY",
     size: [3, 4],
     description: "The Wheating Crew is a dynamic band from Wellsville, NY. They specialize in country and folk music, bringing energy and authenticity to every performance.",
-    contact: "email or social media"
+    contact: "email eric.scutt@gmail.com or text 814-655-6802"
   },
   {
     id: "Don-and-Deb",
@@ -80,6 +80,6 @@ const musicians = [
     location: "Wellsville, NY",
     instruments: ["Guitar", "Vocals"],
     description: "Micah is relatively new to the music scene, but loves to play for small crowds. He has five years of playing experience and three years of performing experience.",
-    contact: "email or social media"
+    contact: "contact information not yet provided"
   }
 ];
