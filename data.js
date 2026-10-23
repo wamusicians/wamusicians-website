@@ -122,5 +122,15 @@ const musicians = [
     bands: ["The-Wheating-Crew", "Sponduli"],
     description: "Cole is currently studying at Houghton University for English Education and has a passion for all things music. He's been playing bass with local musicians for the past 5 years.",
     contact: "email cdavenport2020@outlook.com"
+  },
+  {
+    id: "Chiara Iantorno",
+    type: "person",
+    name: "Chiara Iantorno",
+    genres: ["Alternative", "Indie", "Rock", "Pop", "Prog", "Prog-Rock", "Classical", "Jazz"],
+    location: "Bolivar, NY",
+    instruments: ["Vocals", "Guitar", "Piano", "Bass", "Drums", "Ukelele"],
+    description: "Chiara has been making music for as long as she can remember. She is currently attending Houghton University pursuing a music-education degree. She loves to sing all types of music, especially rock, but is also trained in classical music. Her first project will be released in early 2027.",
+    contact: "DM her on Instagram @chiarasmusicstuff"
   }
 ];
