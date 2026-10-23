@@ -91,5 +91,15 @@ const musicians = [
     size: [4],
     description: "bio not yet provided",
     contact: "DM them on Instagram @more.sponduli"
+  },
+  {
+    id: "cori-lunn",
+    type: "person",
+    name: "cori lunn",
+    genres: ["Folk", "Indie"],
+    location: "Wellsville, NY",
+    instruments: ["Guitar", "Vocals"],
+    description: "hi! i'm cori... i make music in my house. mostly acoustic guitar songs but some secret edm as well on the side :)",
+    contact: " search 'cori lunn' on spotify or 'sorrelclover' on soundcloud"
   }
 ];
