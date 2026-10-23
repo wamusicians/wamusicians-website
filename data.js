@@ -124,7 +124,7 @@ const musicians = [
     contact: "email cdavenport2020@outlook.com"
   },
   {
-    id: "Chiara Iantorno",
+    id: "Chiara-Iantorno",
     type: "person",
     name: "Chiara Iantorno",
     genres: ["Alternative", "Indie", "Rock", "Pop", "Prog", "Prog-Rock", "Classical", "Jazz"],
@@ -132,5 +132,15 @@ const musicians = [
     instruments: ["Vocals", "Guitar", "Piano", "Bass", "Drums", "Ukelele"],
     description: "Chiara has been making music for as long as she can remember. She is currently attending Houghton University pursuing a music-education degree. She loves to sing all types of music, especially rock, but is also trained in classical music. Her first project will be released in early 2027.",
     contact: "DM her on Instagram @chiarasmusicstuff"
+  },
+  {
+    id: "Alden-Moeller",
+    type: "person",
+    name: "Alden Moeller",
+    genres: ["Americana", "Folk", "Indie", "Rock", "Oldies", "Country", "Soul", "Roots"],
+    location: "Houghton, NY",
+    instruments: ["Guitar", "Vocals", "Mandolin", "Bass", "Drums"],
+    description: "Alden is singer-songwriter from Rochester, NY. He has released five albums with two more on the way. He likes biking and taco bell.",
+    contact: "DM him on Instagram @aldenmoellerofficial or find his music by searching 'Alden Moeller' on streaming."
   }
 ];
