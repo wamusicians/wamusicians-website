@@ -155,27 +155,29 @@ footer {
 }.spotlight {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 30px;
   align-items: center;
   background: white;
-  padding: 20px;
+  padding: 30px;
   border-radius: 8px;
 }
 
 .spotlight img {
   width: 100%;
-  max-width: 280px;
-  height: 220px;
+  max-width: 400px;
+  height: 300px;
   object-fit: cover;
   border-radius: 8px;
 }
 
 .spotlight-text {
   flex: 1;
-  min-width: 220px;
+  min-width: 260px;
+  font-size: 1.1em;
 }
 
 .spotlight-text h3 {
   margin-top: 0;
+  font-size: 1.8em;
   color: #1d3557;
 }
