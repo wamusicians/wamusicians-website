@@ -81,5 +81,15 @@ const musicians = [
     instruments: ["Guitar", "Vocals"],
     description: "Micah is relatively new to the music scene, but loves to play for small crowds. He has five years of playing experience and three years of performing experience.",
     contact: "contact information not yet provided"
+  },
+  {
+    id: "Sponduli",
+    type: "band",
+    name: "Sponduli",
+    genres: ["Rock", "Prog", "Prog-Rock", "Prog-Punk"],
+    location: "Alfred, NY",
+    size: [4],
+    description: "bio not yet provided",
+    contact: "DM them on Instagram @more.sponduli"
   }
 ];
