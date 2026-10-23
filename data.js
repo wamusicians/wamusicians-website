@@ -131,7 +131,7 @@ const musicians = [
     location: "Bolivar, NY",
     instruments: ["Vocals", "Guitar", "Piano", "Bass", "Drums", "Ukelele"],
     description: "Chiara has been making music for as long as she can remember. She is currently attending Houghton University pursuing a music-education degree. She loves to sing all types of music, especially rock, but is also trained in classical music. Her first project will be released in early 2027.",
-    contact: "DM her on Instagram @chiarasmusicstuff"
+    contact: "DM her on Instagram @chiaras_music_stuff"
   },
   {
     id: "Alden-Moeller",
@@ -141,6 +141,6 @@ const musicians = [
     location: "Houghton, NY",
     instruments: ["Guitar", "Vocals", "Mandolin", "Bass", "Drums"],
     description: "Alden is singer-songwriter from Rochester, NY. He has released five albums with two more on the way. He likes biking and taco bell.",
-    contact: "DM him on Instagram @aldenmoellerofficial or find his music by searching 'Alden Moeller' on streaming."
+    contact: "DM him on Instagram @alden_moeller_official or find his music by searching 'Alden Moeller' on streaming."
   }
 ];
