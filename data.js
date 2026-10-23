@@ -101,5 +101,15 @@ const musicians = [
     instruments: ["Guitar", "Vocals"],
     description: "hi! i'm cori... i make music in my house. mostly acoustic guitar songs but some secret edm as well on the side :)",
     contact: " search 'cori lunn' on spotify or 'sorrelclover' on soundcloud"
+  },
+  {
+    id: "BigmanJojo"
+    type: "person",
+    name: "BigmanJojo",
+    genres: ["Hip-Hop", "R&B", "Soul", "Country"],
+    location: "Scio, NY",
+    instruments: ["Vocals", "Guitar", "Ukelele", "Bass", "Bongos", "Vocals", "Production"],
+    description: "Science and engineering degree for the recording arts, singer, musician, voice actor, sound and audio designer and engineer."
+    contact: "email bigmanjojoentertainment@gmail.com"
   }
 ];
