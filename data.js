@@ -116,11 +116,11 @@ const musicians = [
     id: "Cole-Davenport",
     type: "person",
     name: "Cole Davenport",
-    genres: ["Jazz", "Pop", "Rock", "R&B", "Soul", "Folk"],
+    genres: ["Jazz", "Pop", "Rock", "R&B", "Soul", "Folk", "Prog", "Indie"],
     location: "Scio, NY",
     instruments: ["Guitar", "Bass"],
     bands: ["The-Wheating-Crew", "Sponduli"],
     description: "Cole is currently studying at Houghton University for English Education and has a passion for all things music.",
-    contact: "text 585-648-6240"
+    contact: "email cdavenport2020@outlook.com"
   }
 ];
