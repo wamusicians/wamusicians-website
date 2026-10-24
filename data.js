@@ -10,9 +10,9 @@ const musicians = [
     contact: "contact information not yet provided"
   },
   {
-    id: "Buckwheat",
+    id: "Buckwheat-Infamous",
     type: "person",
-    name: "Buckwheat",
+    name: "Buckwheat (Infamous)",
     genres: ["Country", "Folk", "Oldies"],
     location: "Wellsville, NY",
     instruments: ["Guitar", "Bass", "Vocals", "Mandolin", "Melodica", "Harmonica"],
