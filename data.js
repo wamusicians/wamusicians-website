@@ -7,7 +7,7 @@ const musicians = [
     location: "Wellsville, NY",
     size: [2, 3, 4],
     description: "The Peralta Family is a family of strings players from Venezuela. They specialize in classical music, perfect for weddings and other upscale events.",
-    contact: "contact information not yet provided"
+    contact: "text 929-280-1764 or DM on Instagram @davidperalta19"
   },
   {
     id: "Buckwheat-Infamous",
