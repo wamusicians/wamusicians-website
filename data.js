@@ -13,7 +13,7 @@ const musicians = [
     id: "Buckwheat-Infamous",
     type: "person",
     name: "Buckwheat (Infamous)",
-    genres: ["Country", "Folk", "Oldies"],
+    genres: ["Country", "Folk", "Oldies", "Improvisational"],
     location: "Wellsville, NY",
     instruments: ["Guitar", "Bass", "Vocals", "Mandolin", "Melodica", "Harmonica"],
     bands: ["The-Wheating-Crew"],
