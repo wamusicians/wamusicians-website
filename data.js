@@ -142,5 +142,15 @@ const musicians = [
     instruments: ["Guitar", "Vocals", "Mandolin", "Bass", "Drums"],
     description: "Alden is singer-songwriter from Rochester, NY. He has released five albums with two more on the way. He likes biking and taco bell.",
     contact: "DM him on Instagram @alden_moeller_official or find his music by searching 'Alden Moeller' on streaming."
+  },
+  {
+    id: "Devon-Reagan",
+    type: "person",
+    name: "Devin Reagan",
+    genres: ["Americana", "Folk", "Oldies"],
+    location: "Wellsville, NY",
+    instruments: ["Guitar", "Vocals"],
+    description: "Devon Reagan is a singer-songwriter based in Wellsville, NY. He grew up listening to, and later playing upright bass and guitar alongside his father, an accomplished banjo player and founding member of the Southern Tier Bluegrass Association. Devon began writing songs in earnest in 2023, and released his first EP, 'Seeds and Stones' in 2025. His music often incorporates understated acoustic elements with lyrics that favor metaphor and recurring symbols, addressing themes such as nature, maturational loss, changing relationships, and redemptive contemplation.",
+    contact: "search 'Devon Michael Reagan' on streaming services"
   }
 ];
