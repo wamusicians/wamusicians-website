@@ -163,5 +163,26 @@ const musicians = [
     bands: ["Sponduli"],
     description: "Singer-songwriter described as 'Evil Elliot Smith'",
     contact: "email haydenheim27@gmail.com or text 585-610-0072"
+  },
+  {
+    id: "AG-Twanger",
+    type: "person",
+    name: "AG Twanger",
+    genres: ["Roots", "Americana", "Rock", "Reggae"],
+    location: "Wellsville, NY",
+    instruments: ["Guitar", "Bass", "Vocals"],
+    bands: ["Mystic Twangers"],
+    description: "AG Twanger is the songwriter and guitar player of the Mystic Twangers band. He has released 7 full length albums with his band, which have been played on the Crossroads of Americana radio station. 'AG Twanger's songwriting brings a new spartk to the contemporary Americana landscape with grit, soul, and a signature sound you know the moment you hear it.'",
+    contact: "search 'Mystic Twangers' on streaming or email andy@mystictwangers.com"
+  },
+  {
+    id: "Mystic-Twangers",
+    type: "band",
+    name: "Mystic Twangers",
+    genres: ["Roots", "Americana", "Rock", "Reggae"],
+    location: "Hammondsport, NY",
+    size: [4],
+    description: "The Mystic Twangers play all original music throughout New York's Finger Lakes area from April through October. The band consists of guitar, violin, bass, and drums. The Twangers have released 7 full length albums.",
+    contact: "search 'Mystic Twangers' on streaming or email andy@mystictwangers.com"
   }
 ];
