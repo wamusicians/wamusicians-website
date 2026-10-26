@@ -172,7 +172,7 @@ const musicians = [
     location: "Wellsville, NY",
     instruments: ["Guitar", "Bass", "Vocals"],
     bands: ["Mystic Twangers"],
-    description: "AG Twanger is the songwriter and guitar player of the Mystic Twangers band. He has released 7 full length albums with his band, which have been played on the Crossroads of Americana radio station. 'AG Twanger's songwriting brings a new spartk to the contemporary Americana landscape with grit, soul, and a signature sound you know the moment you hear it.'",
+    description: "AG Twanger is the songwriter and guitar player of the Mystic Twangers band. He has released 7 full length albums with his band, which have been played on the Crossroads of Americana radio station. 'AG Twanger's songwriting brings a new spark to the contemporary Americana landscape with grit, soul, and a signature sound you know the moment you hear it.'",
     contact: "search 'Mystic Twangers' on streaming or email andy@mystictwangers.com"
   },
   {
