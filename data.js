@@ -152,5 +152,16 @@ const musicians = [
     instruments: ["Guitar", "Vocals"],
     description: "Devon Reagan is a singer-songwriter based in Wellsville, NY. He grew up listening to, and later playing upright bass and guitar alongside his father, an accomplished banjo player and founding member of the Southern Tier Bluegrass Association. Devon began writing songs in earnest in 2023, and released his first EP, 'Seeds and Stones' in 2025. His music often incorporates understated acoustic elements with lyrics that favor metaphor and recurring symbols, addressing themes such as nature, maturational loss, changing relationships, and redemptive contemplation.",
     contact: "search 'Devon Michael Reagan' on streaming services"
+  },
+  {
+    id: "Hayden-Kristopher-Heim",
+    type: "person",
+    name: "Hayden Kristopher Heim",
+    genres: ["Folk"],
+    location: "Wellsville, NY",
+    instruments: ["Guitar", "Vocals"],
+    bands: ["Sponduli"],
+    description: "Singer-songwriter described as 'Evil Elliot Smith'",
+    contact: "email haydenheim27@gmail.com or text 585-610-0072"
   }
 ];
