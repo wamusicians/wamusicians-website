@@ -184,5 +184,15 @@ const musicians = [
     bands: ["Mystic-Twangers"],
     description: "AG Twanger is the songwriter and guitar player of the Mystic Twangers band. He has released 7 full length albums with his band, which have been played on the Crossroads of Americana radio station. 'AG Twanger's songwriting brings a new spark to the contemporary Americana landscape with grit, soul, and a signature sound you know the moment you hear it.'",
     contact: "search 'Mystic Twangers' on streaming, email andy@mystictwangers.com, or visit mystictwangers.com"
+  },
+  {
+    id: "Casual-Remix",
+    type: "band",
+    name: "Casual Remix",
+    genres: ["Contemporary", "Country", "Folk"],
+    location: "Wellsville, NY",
+    size: [3],
+    description: "Bio not yet provided",
+    contact: "text 585-307-0815, email warrenjbuntz@yahoo.com, or search 'Casual Remix' on Facebook"
   }
 ];
